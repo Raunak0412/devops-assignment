@@ -1,8 +1,8 @@
 # Capstone Project: End-to-End DevOps Automation Platform
 
-**Student:** Elari  
+**Student:** raunak
 **Date:** November 2026  
-**Repository:** https://github.com/herscheetakhurana/devops-assignment  
+**Repository:** https://github.com/Raunak0412/devops-assignment
 **Marks:** 120
 
 ---
@@ -187,6 +187,6 @@ bash scripts/deploy.sh scan devops-capstone-app:1.0.0
 ---
 
 ## Student Information
-- **Name:** Elari  
+- **Name:** Raunak  
 - **Environment:** Ubuntu 24.04 LTS, Kubernetes Minikube v1.34, Docker 26.x  
-- **GitHub:** https://github.com/herscheetakhurana/devops-assignment  
+- **GitHub:** https://github.com/Raunak0412/devops-assignment
